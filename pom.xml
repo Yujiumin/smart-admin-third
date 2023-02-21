@@ -6,7 +6,12 @@
 
     <groupId>jiumin.yu</groupId>
     <artifactId>smart-admin-third</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>smart-admin-third-ocean</module>
+    </modules>
 
     <build>
         <plugins>
